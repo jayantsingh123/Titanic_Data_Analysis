@@ -23,7 +23,7 @@
 The dependent variable is given by Survived: 0 (died), and 1 (lived).
 
 ## Summary
- Here, a basic analysis has been done, which aims at answering following questions; first, did the passengers who boarded the ship at a particular location were lucky enough to escape the disaster, 
+ Here, a basic analysis has been done, which aims at answering following questions; first, did the passengers who boarded the ship at a particular location were lucky enough to escape the disaster; second, what was the distribution of survivors, based on the passenger class. Moreover, can we say something more about the gender of the survivors from the different classes?
 
 
 
